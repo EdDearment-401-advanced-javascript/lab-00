@@ -5,7 +5,7 @@
 ### Author: Student/Group Name Ed, Matt, Tia
 
 ### Links and Resources
-* [submission PR](https://github.com/yourname-401-advanced-javascript/lab-00/pull/2)
+* [submission PR](https://github.com/yourname-401-advanced-javascript/lab-00/pull/3)
 * [travis](https://travis-ci.com/yourname-401-advanced-javascript/lab-00b)
 * [back-end](https://shielded-river-71599.herokuapp.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
