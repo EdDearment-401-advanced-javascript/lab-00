@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/yourname-401-advanced-javascript/lab-00/pull/2)
-* [travis](https://travis-ci.com/yourname-401-advanced-javascript/lab-00b)
+* [travis](https://travis-ci.com/yourname-401-advanced-javascript/lab-00)
 * [back-end](https://shielded-river-71599.herokuapp.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
